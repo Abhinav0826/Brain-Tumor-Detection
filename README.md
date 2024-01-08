@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?res
 
 ![Result](https://github.com/Abhinav0826/Brain-Tumor-Detection/assets/98962378/6c94e798-1b08-4bf0-9a42-eb86d3aaa059)
 
-## IEEE Paper
+## References
 
 [IRJET-V6I12349.pdf](https://github.com/Abhinav0826/Brain-Tumor-Detection/files/13857655/IRJET-V6I12349.pdf)
 
